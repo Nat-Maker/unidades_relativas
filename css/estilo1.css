@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #2b2129;
+}
+
+.fila_head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: #dd8e58;
+}
+
+table{
+    border-collapse: collapse;
+    background: #e5d1b8;
+    border: 5px dotted #708a81;
+    border-bottom-style: dashed;
+    border-bottom-color: #dd8e58;
+}
+
+td{
+    border: 5px dotted #708a81;
+}
+
+tr{
+    border: 5px dotted #708a81;
+}
+
